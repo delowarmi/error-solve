@@ -41,5 +41,5 @@ export const {
   removeItem,
 } = cartSlice.actions;
 //----------------------------------
-export default cartSlice.reducer
+
 // এখানে এক্সপোর্ট ডিপল্ট ছিল না ..................।।
